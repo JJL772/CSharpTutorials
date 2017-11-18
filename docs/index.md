@@ -11,7 +11,7 @@ This part of the tutorial will give you some insights into the language itself, 
 A massive list of vocabulary words that are important for you to know so you can best understand this tutorial. Even if you're experienced, I reccomend reading this.
 ####What is C#?
 Pretty much self-explanitory, some explination about what C# is!
-####History of C#
+####History of C#.
 Here we will learn about the origins of the language, and about the history of programming as a whole. There's a purpose for this section, I promise!
 
 ###Part 2 - Setup

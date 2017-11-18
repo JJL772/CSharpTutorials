@@ -16,3 +16,17 @@ Here we will learn about the origins of the language, and about the history of p
 
 ###Part 2 - Setup
 In this part of the tutorial, we will explore how to actually setup the development environment
+####Installing Mono
+
+####Installing GTK#.
+
+####Installing Xamarin Studio
+
+###Part 3 - The Basics
+In this part of the tutorial, we will explore the basics of C# programming.
+####Comments
+
+####Code Blocks
+
+####Hello, World! Program
+

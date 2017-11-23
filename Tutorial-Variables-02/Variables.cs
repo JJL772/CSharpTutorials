@@ -2,11 +2,14 @@ using System;
 
 namespace Variables
 {
-	public static void Main(string[] args)
+	public class Variables
 	{
-		int MyInt = 100;
-		string MyString = "Hello, world!";
-		bool MyBool = false;
-		Console.WriteLine("Value of MyInt: " + MyInt);
+		public static void Main(string[] args)
+		{
+			int MyInt = 100;
+			string MyString = "Hello, world!";
+			bool MyBool = false;
+			Console.WriteLine("Value of MyInt: " + MyInt);
+		}
 	}
 }

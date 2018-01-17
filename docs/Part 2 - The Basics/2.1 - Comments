@@ -1,1 +1,23 @@
+#Comments
+Before we get into the actual programming part of C#, we need to look at some of the most simplistic, yet useful features of the language. 
 
+Comments in code are simply ignored lines of text, where you can write anything you would like. By using comments you can explain parts of your code, write notes and do basically whatever you want without causing any errors, as these lines of code are ignored by the compiler. The syntax of a comment is pretty simple too. Each comment should be preceeded by a pair of forward slashes, which look like this: `//`. In the below example, I will demonstrate a simple single line comment.
+
+```c#
+//This is a single line comment. I can do whatever I want here!
+```
+
+Simple enough right? But what if I want a comment that spans multiple lines? C#, and most languages actually, have those too. For a multi-line comment, the syntax is `/*` to open a multi-line comment, and `*/` to close a multi-line comment. Anything between those two sets of characters will be ignored.
+
+Here is an example of a multi-line comment.
+
+```c#
+/* 
+This is my multi-line comment!
+I can do whatever I want here!
+*/
+
+/* This is also a comment with the multi-line syntax! */
+```
+
+That was probably the easiest feature of this language you will learn!
